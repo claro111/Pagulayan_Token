@@ -8,10 +8,6 @@
 
 ## Getting Started
 
-### Installing
-
-* 
-* 
 
 ### Executing program
 
@@ -26,8 +22,6 @@
 ## Help
 
 --
-```
-
 
 ## Authors
 
@@ -36,7 +30,3 @@ Contributors names and contact info
 John Carlo Pagulayan
 [422004488@ntc.edu.ph]
 
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
