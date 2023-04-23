@@ -19,9 +19,6 @@
     - Click the Deploy button then Deployed Contracts should display all the variables.
     - Copy the address then you can now mint or burn tokens!
 
-## Help
-
---
 
 ## Authors
 
