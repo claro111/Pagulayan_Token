@@ -11,8 +11,6 @@
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
     - For you to run this program, we'll use an IDE called Remix. https://remix.ethereum.org/ 
     - Once all the code are already done, go to Solidity Compiler that can be seen from left most part of the IDE. And click Auto compile then click compile
     - Next is go to Deploy & Run Transactions that can be seen under the Solidity Compiler.
@@ -21,8 +19,6 @@
 
 
 ## Authors
-
-Contributors names and contact info
 
 John Carlo Pagulayan
 [422004488@ntc.edu.ph]
