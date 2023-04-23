@@ -21,5 +21,8 @@
 ## Authors
 
 John Carlo Pagulayan
-[422004488@ntc.edu.ph]
+@_jlpglyn
 
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
