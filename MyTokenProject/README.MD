@@ -1,4 +1,4 @@
-# LUNA
+# Project Title
 
     A sample token project from metacrafters named LUNA and is a program that demonstrates the functionality of the Solidity Programming languge.  The main purpose of this program is to have a brief knowledge about how transaction works by minting and burning.
 
